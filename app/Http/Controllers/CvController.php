@@ -63,4 +63,4 @@ return view('cv.edit',['cv'=>$cv]);
         return view('cv.make');
     }
 }
-//eind
+
